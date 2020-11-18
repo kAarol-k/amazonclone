@@ -9,25 +9,51 @@ function Home() {
             
             <div className="home__row">
                 <Product 
+                id="144443"
                 title="The lean startup" 
-                price="29.99" 
+                price={421.99} 
                 image="https://m.media-amazon.com/images/I/31KfaQeEEHL._AC_SY200_.jpg" 
                 rating={5}
                 />
                 <Product 
+                id="1123123123"
                 title="yś" 
-                price="4.99" 
+                price={4.99} 
                 image="https://m.media-amazon.com/images/I/31KfaQeEEHL._AC_SY200_.jpg" 
                 rating={2}
                 />
             </div>
             <div className="home__row">
-                 <Product />
-                 <Product />
-                 <Product />
+                <Product 
+                id="1231545523123"
+                title="yś" 
+                price={4.99}  
+                image="https://m.media-amazon.com/images/I/31KfaQeEEHL._AC_SY200_.jpg" 
+                rating={2}
+                />
+                <Product 
+                id="123123123"
+                title="yś" 
+                price={4.99} 
+                image="https://m.media-amazon.com/images/I/31KfaQeEEHL._AC_SY200_.jpg" 
+                rating={2}
+                />
+                  <Product
+                  id="151231123" 
+                title="yś" 
+                price={4.99} 
+                image="https://m.media-amazon.com/images/I/31KfaQeEEHL._AC_SY200_.jpg" 
+                rating={2}
+                />
             </div>
             <div className="home__row">
-                 <Product />
+            <Product 
+                id="12123"
+                title="yś" 
+                price={4.99}  
+                image="https://m.media-amazon.com/images/I/31KfaQeEEHL._AC_SY200_.jpg" 
+                rating={2}
+                />
                 
             </div>
             </div>
